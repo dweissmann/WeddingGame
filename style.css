@@ -14,7 +14,7 @@ body {
 
 /* Header Styles */
 .main-header {
-    background: linear-gradient(135deg, #e8f0f5 0%, #d4e0e8 50%, #c3d4dd 100%);
+    background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 50%, #d8b4fe 100%);
     padding: 0;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     position: sticky;
